@@ -33,6 +33,7 @@ This web application calculates the day of the week a user was born based on the
 ## Author
 Timothy Opiyo Owiyo
 Senior Software Development Engineer In Test
+Phone No
  Safaricom limited
 ## Contact Information
 - Email: TOwiyo@safaricom.co.ke
